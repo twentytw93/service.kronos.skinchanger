@@ -12,7 +12,7 @@ It automatically adjusts the Kodi skin color scheme based on the time of day, ke
   - Darkest from late night 
 - **Silent Operation** – Runs fully in the background without notifications or popups. 
 - **Abort-Safe Startup** – Activates only after Kodi UI is ready. 
-- **Arctic Zephyr Reloaded Support** – Fully compatible with the popular Arctic Zephyr skin. 
+- **Arctic Zephyr Reloaded Support** – ONLY compatible with the popular Arctic Zephyr skin. 
 
 ---
 
